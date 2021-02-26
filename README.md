@@ -1,4 +1,4 @@
 # Programmesana_10a_2
 Pirmais darbs ar GitHup
 Ilja Gorjuskin
-Es esmu labs programmetajs
+Es esmu izcils programmetajs
